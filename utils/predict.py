@@ -1,6 +1,13 @@
-import numpy as np
+import os
 from tensorflow.keras.models import load_model
-from PIL import Image
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+MODEL_PATH = os.path.join(BASE_DIR, "model", "keras_model.h5")
+
+print("MODEL PATH:", MODEL_PATH)
+print("EXISTS:", os.path.exists(MODEL_PATH))
+
+model = load_model(MODEL_PATH)
 
 model = load_model("model/keras_model.h5")
 
