@@ -1,0 +1,34 @@
+{
+  "BMW S1000RR": {
+    "Hersteller": "BMW",
+    "Leistung": "210 PS",
+    "Hubraum": "999 ccm",
+    "Gewicht": "197 kg",
+    "Höchstgeschwindigkeit": "299 km/h",
+    "Motor": "Reihenvierzylinder"
+  },
+  "KTM EXC 300": {
+    "Hersteller": "KTM",
+    "Leistung": "ca. 50 PS",
+    "Hubraum": "293 ccm",
+    "Gewicht": "103 kg",
+    "Höchstgeschwindigkeit": "ca. 140 km/h",
+    "Motor": "Einzylinder Zweitakt"
+  },
+  "Honda CRF 250": {
+    "Hersteller": "Honda",
+    "Leistung": "ca. 24 PS",
+    "Hubraum": "249 ccm",
+    "Gewicht": "144 kg",
+    "Höchstgeschwindigkeit": "ca. 130 km/h",
+    "Motor": "Einzylinder Viertakt"
+  },
+  "Kawasaki H2R": {
+    "Hersteller": "Kawasaki",
+    "Leistung": "310 PS",
+    "Hubraum": "998 ccm",
+    "Gewicht": "216 kg",
+    "Höchstgeschwindigkeit": "über 400 km/h",
+    "Motor": "Kompressor-Reihenvierzylinder"
+  }
+}
